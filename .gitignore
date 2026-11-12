@@ -1,0 +1,6 @@
+.godot/
+*.translation
+export/
+build/
+override.cfg
+.DS_Store
